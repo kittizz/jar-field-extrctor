@@ -8,6 +8,9 @@
       <element id="module-output" name="JARFieldExtractor.main" />
       <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.1.10" />
       <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
+      <element id="library" level="project" name="Gradle: com.google.guava:failureaccess:1.0.1" />
+      <element id="library" level="project" name="Gradle: com.google.guava:guava:32.1.2-jre" />
+      <element id="library" level="project" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
     </root>
   </artifact>
 </component>
